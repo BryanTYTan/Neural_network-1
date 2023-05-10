@@ -7,3 +7,5 @@ data_gen.py | This file contains the arbritary equation that determines if a val
 scratch.py | this file contains the Neural network that runs on the generated test data and prints out the accuracy of the model.
 neural.py | Misc Concept learning Files
 Test.py | Misc Concept learning Files
+TestData.txt | Data to be tested if the Neural network is accurate
+TrainData.txt | Data used to train the Neural Network.
